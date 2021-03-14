@@ -1,35 +1,31 @@
 # Easy_ADB
+
 this is a bash script to help you do the following functions over ADB
 
 ![alt tag](art/team.png)
 
+- uninstall apk
 
-1- install apk
+- clear app data
 
-2- uninstall apk
+- diable animation for ui testing
 
-3- clear app data
+- enable animation for ui testing
 
-4- diable animation for ui testing
+- list of active devices
 
-5- enable animation for ui testing
+- list all apk packages in your devices
 
-6- list of active devices
+- generate dumpsys in external file on Desktop
 
-7- list all apk packages in your devices
+- run the device shell
 
-8- generate dumpsys in external file on Desktop
+- list all adb commands available on that device
 
-9- run the device shell
+- capture screenshot for your active screen
 
-10- list all adb commands available on that device
+- record video for your device
 
-11- capture screenshot for your active screen
+- show dumpsys for battery
 
-12- record video for your device
-
-13- show dumpsys for battery
-
-14- show ip address info
-
- 
+- show ip address info
