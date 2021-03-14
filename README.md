@@ -1,6 +1,9 @@
 # Easy_ADB
 this is a bash script to help you do the following functions over ADB
 
+![alt tag](art/team.png)
+
+
 1- install apk
 
 2- uninstall apk
