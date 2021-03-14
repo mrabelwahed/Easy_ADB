@@ -43,3 +43,7 @@ this is a bash script to help you do the following functions over ADB
 - modify the adb alias to your adb path (your platform tools path)
 
 - modify the package name to be your app package name
+
+- example : https://github.com/mrabelwahed/AndroidTemplate/blob/master/easy_adb.sh
+
+###

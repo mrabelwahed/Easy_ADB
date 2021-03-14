@@ -139,9 +139,10 @@ while test $# -gt 0; do
              exit 0
              ;;
         
-        uninstall)
-             print_blue "\n ====================================   Battery Info :   ===============================\n"
+         uninstall)
+             print_blue "\n ====================================   Uninstalling  :   ===============================\n"
              adb uninstall  $PACKAGE
+             print_green "uninstall is done \n"
              print_blue "==================================================================================================\n"
              exit 0
              ;;
