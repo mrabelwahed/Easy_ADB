@@ -46,4 +46,6 @@ this is a bash script to help you do the following functions over ADB
 
 - example : https://github.com/mrabelwahed/AndroidTemplate/blob/master/easy_adb.sh
 
-###
+## video
+
+- https://www.youtube.com/watch?v=vYifmXA2Wag&ab_channel=MahmoudRamadan
