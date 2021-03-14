@@ -29,3 +29,17 @@ this is a bash script to help you do the following functions over ADB
 - show dumpsys for battery
 
 - show ip address info
+
+## integration with Android Studio
+
+- copy the easy_adb from the repo
+
+- open your android project in Android Studio
+
+- put the file on the root file in the same level of app module
+
+- open the script file on Android Studio
+
+- modify the adb alias to your adb path (your platform tools path)
+
+- modify the package name to be your app package name
